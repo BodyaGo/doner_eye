@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn.lock
+package-lock.json
+
+doner_eye/Test Files/*.mp4
+doner_eye/Test Files/*.avi
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+.vite/
+.vitepress/
+out/
+.next/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python files
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# Logs and temp files
+logs/
+*.log
+*.bak
+.DS_Store
+Thumbs.db
